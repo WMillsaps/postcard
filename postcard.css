@@ -1,0 +1,25 @@
+.postcard {color: black;}
+.postcard {font-family: comic sans ms;}
+.postcard {margin: 10px;}
+.postcard {padding: 10px;}
+.postcard-top-header-and-image {overflow: hidden;}
+.postcard-top-header-and-image {padding: 5%;}
+.postcard-top-header-and-image {margin: 5%;}
+.postcard-top-left-header {float: left;}
+.postcard-top-left-header {width: 50%;}
+.postcard-top-left-header {padding: 5%; margin:10px}
+.postcard-top-left-header {text=align: left;}
+.postcard-top-left-header {font-size: 100%;}
+.postcard-top-right-image {float: right;}
+.postcard-top-right-image {width: 50%;}
+.postcard-top-right-image {padding: 5%;}
+.postcard-top-right-image {text=align: right;}
+.postcard-middle-paragraphs-and-inputsection {overflow: hidden;}
+.postcard-middle-left-paragraph {float: left;}
+.postcard-middle-left-paragraph {width: 50%}
+.postcard-middle-left-paragraph {padding: 15px;}
+.postcard-middle-left-paragraph {font-size: 70%;}
+.postcard--middle-right-inputsection {float: right;}
+.postcard--middle-right-inputsection {width: 50%;}
+.postcard--middle-right-inputsection {padding: 15px;}
+.postcard-bottom-button {float: none;}
